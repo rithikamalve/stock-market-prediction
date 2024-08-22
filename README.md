@@ -74,8 +74,8 @@ To run this project locally, follow these steps:
 
 Here are the before and after predictions visualized:
 
-- **Before Prediction**: ![Before Prediction](path_to_before_image.png)
-- **After Prediction**: ![After Prediction](path_to_after_image.png)
+- **Before Prediction**: ![Before Prediction](Images/Before.png)
+- **After Prediction**: ![After Prediction](Images/Predicted.png)
 
 ## Contributing
 
